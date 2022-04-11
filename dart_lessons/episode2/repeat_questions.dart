@@ -74,4 +74,14 @@ void main(List<String> args) {
     counter3++;
   }
   print("Girdiğiniz $number4 sayısının faktöriyeli : $result2");
+
+  print("************************************");
+
+  int number5 = 5;
+  var factorial = 1;
+
+  for (var i = number5; i >= 1; i--) {
+    factorial *= i;
+  }
+  print("Girdiğiniz $number5 sayısının faktöriyeli : $factorial");
 }
