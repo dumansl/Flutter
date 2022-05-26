@@ -21,7 +21,7 @@
 :computer: Koleksiyonlarla İlgili Tekrar Soruları
 <br />
 <br />
-:computer: Nesne Yönemlimli Programlamaya Giriş
+:computer: Nesne Yönelimli Programlamaya Giriş
 <br />
 <br />
 :computer: Kalıtım ve Polimorfizm
